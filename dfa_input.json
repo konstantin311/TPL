@@ -1,0 +1,5 @@
+{
+    "alphabet": ["a", "b","c"],
+    "substring": "aa",
+    "modulus": 3
+}
